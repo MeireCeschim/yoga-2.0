@@ -1,3 +1,10 @@
 git help
 git status => Mostra qual é o status atual do nosso repositório
 clear => limpa o terminal
+
+git config --global user.name "Seu nome aqui entre aspas"
+git config --global user.email "Seu email do github aqui entre aspas"
+
+git init => Inicia um novo repositório na pasta que eu estou
+git add => adiciona arquivos para serem comitados
+git add. => adciona TODOS os arquivos de uma vez só
