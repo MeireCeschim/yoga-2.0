@@ -11,4 +11,6 @@ git add. => adciona TODOS os arquivos de uma vez só
 
 git commit
 
-git push
+git push => enviar arquivo
+
+git pull => puxar algum arquivo
