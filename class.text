@@ -1,0 +1,3 @@
+git help
+git status => Mostra qual é o status atual do nosso repositório
+clear => limpa o terminal
